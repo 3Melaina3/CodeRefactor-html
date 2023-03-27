@@ -5,6 +5,8 @@ Production Link: https://3melaina3.github.io/code-refactor-html/Links to an exte
 
 # 01 HTML, CSS, and Git: Code Refactor
 
+![Screenshot](https://user-images.githubusercontent.com/127055414/227816409-09dfea34-d5ed-4de8-92c5-66511e9a0a48.png)
+
 ## User Story
 
 ```
